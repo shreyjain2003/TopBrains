@@ -1,0 +1,15 @@
+/Users/shrey/Desktop/Training_Prac/Top_Brains/BankTransactionProgram/bin/Debug/net10.0/BankTransactionProgram
+/Users/shrey/Desktop/Training_Prac/Top_Brains/BankTransactionProgram/bin/Debug/net10.0/BankTransactionProgram.deps.json
+/Users/shrey/Desktop/Training_Prac/Top_Brains/BankTransactionProgram/bin/Debug/net10.0/BankTransactionProgram.runtimeconfig.json
+/Users/shrey/Desktop/Training_Prac/Top_Brains/BankTransactionProgram/bin/Debug/net10.0/BankTransactionProgram.dll
+/Users/shrey/Desktop/Training_Prac/Top_Brains/BankTransactionProgram/bin/Debug/net10.0/BankTransactionProgram.pdb
+/Users/shrey/Desktop/Training_Prac/Top_Brains/BankTransactionProgram/obj/Debug/net10.0/BankTransactionProgram.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shrey/Desktop/Training_Prac/Top_Brains/BankTransactionProgram/obj/Debug/net10.0/BankTransactionProgram.AssemblyInfoInputs.cache
+/Users/shrey/Desktop/Training_Prac/Top_Brains/BankTransactionProgram/obj/Debug/net10.0/BankTransactionProgram.AssemblyInfo.cs
+/Users/shrey/Desktop/Training_Prac/Top_Brains/BankTransactionProgram/obj/Debug/net10.0/BankTransactionProgram.csproj.CoreCompileInputs.cache
+/Users/shrey/Desktop/Training_Prac/Top_Brains/BankTransactionProgram/obj/Debug/net10.0/BankTransactionProgram.sourcelink.json
+/Users/shrey/Desktop/Training_Prac/Top_Brains/BankTransactionProgram/obj/Debug/net10.0/BankTransactionProgram.dll
+/Users/shrey/Desktop/Training_Prac/Top_Brains/BankTransactionProgram/obj/Debug/net10.0/refint/BankTransactionProgram.dll
+/Users/shrey/Desktop/Training_Prac/Top_Brains/BankTransactionProgram/obj/Debug/net10.0/BankTransactionProgram.pdb
+/Users/shrey/Desktop/Training_Prac/Top_Brains/BankTransactionProgram/obj/Debug/net10.0/BankTransactionProgram.genruntimeconfig.cache
+/Users/shrey/Desktop/Training_Prac/Top_Brains/BankTransactionProgram/obj/Debug/net10.0/ref/BankTransactionProgram.dll

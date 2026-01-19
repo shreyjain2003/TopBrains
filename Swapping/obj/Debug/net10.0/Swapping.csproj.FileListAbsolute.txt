@@ -1,0 +1,15 @@
+/Users/shrey/Desktop/Training_Prac/Top_Brains/Swapping/bin/Debug/net10.0/Swapping
+/Users/shrey/Desktop/Training_Prac/Top_Brains/Swapping/bin/Debug/net10.0/Swapping.deps.json
+/Users/shrey/Desktop/Training_Prac/Top_Brains/Swapping/bin/Debug/net10.0/Swapping.runtimeconfig.json
+/Users/shrey/Desktop/Training_Prac/Top_Brains/Swapping/bin/Debug/net10.0/Swapping.dll
+/Users/shrey/Desktop/Training_Prac/Top_Brains/Swapping/bin/Debug/net10.0/Swapping.pdb
+/Users/shrey/Desktop/Training_Prac/Top_Brains/Swapping/obj/Debug/net10.0/Swapping.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shrey/Desktop/Training_Prac/Top_Brains/Swapping/obj/Debug/net10.0/Swapping.AssemblyInfoInputs.cache
+/Users/shrey/Desktop/Training_Prac/Top_Brains/Swapping/obj/Debug/net10.0/Swapping.AssemblyInfo.cs
+/Users/shrey/Desktop/Training_Prac/Top_Brains/Swapping/obj/Debug/net10.0/Swapping.csproj.CoreCompileInputs.cache
+/Users/shrey/Desktop/Training_Prac/Top_Brains/Swapping/obj/Debug/net10.0/Swapping.sourcelink.json
+/Users/shrey/Desktop/Training_Prac/Top_Brains/Swapping/obj/Debug/net10.0/Swapping.dll
+/Users/shrey/Desktop/Training_Prac/Top_Brains/Swapping/obj/Debug/net10.0/refint/Swapping.dll
+/Users/shrey/Desktop/Training_Prac/Top_Brains/Swapping/obj/Debug/net10.0/Swapping.pdb
+/Users/shrey/Desktop/Training_Prac/Top_Brains/Swapping/obj/Debug/net10.0/Swapping.genruntimeconfig.cache
+/Users/shrey/Desktop/Training_Prac/Top_Brains/Swapping/obj/Debug/net10.0/ref/Swapping.dll

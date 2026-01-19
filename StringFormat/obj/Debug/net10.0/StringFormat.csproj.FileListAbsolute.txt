@@ -1,0 +1,15 @@
+/Users/shrey/Desktop/Training_Prac/Top_Brains/StringFormat/bin/Debug/net10.0/StringFormat
+/Users/shrey/Desktop/Training_Prac/Top_Brains/StringFormat/bin/Debug/net10.0/StringFormat.deps.json
+/Users/shrey/Desktop/Training_Prac/Top_Brains/StringFormat/bin/Debug/net10.0/StringFormat.runtimeconfig.json
+/Users/shrey/Desktop/Training_Prac/Top_Brains/StringFormat/bin/Debug/net10.0/StringFormat.dll
+/Users/shrey/Desktop/Training_Prac/Top_Brains/StringFormat/bin/Debug/net10.0/StringFormat.pdb
+/Users/shrey/Desktop/Training_Prac/Top_Brains/StringFormat/obj/Debug/net10.0/StringFormat.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shrey/Desktop/Training_Prac/Top_Brains/StringFormat/obj/Debug/net10.0/StringFormat.AssemblyInfoInputs.cache
+/Users/shrey/Desktop/Training_Prac/Top_Brains/StringFormat/obj/Debug/net10.0/StringFormat.AssemblyInfo.cs
+/Users/shrey/Desktop/Training_Prac/Top_Brains/StringFormat/obj/Debug/net10.0/StringFormat.csproj.CoreCompileInputs.cache
+/Users/shrey/Desktop/Training_Prac/Top_Brains/StringFormat/obj/Debug/net10.0/StringFormat.sourcelink.json
+/Users/shrey/Desktop/Training_Prac/Top_Brains/StringFormat/obj/Debug/net10.0/StringFormat.dll
+/Users/shrey/Desktop/Training_Prac/Top_Brains/StringFormat/obj/Debug/net10.0/refint/StringFormat.dll
+/Users/shrey/Desktop/Training_Prac/Top_Brains/StringFormat/obj/Debug/net10.0/StringFormat.pdb
+/Users/shrey/Desktop/Training_Prac/Top_Brains/StringFormat/obj/Debug/net10.0/StringFormat.genruntimeconfig.cache
+/Users/shrey/Desktop/Training_Prac/Top_Brains/StringFormat/obj/Debug/net10.0/ref/StringFormat.dll

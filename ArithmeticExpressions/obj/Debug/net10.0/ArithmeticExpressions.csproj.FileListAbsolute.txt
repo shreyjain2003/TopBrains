@@ -1,0 +1,15 @@
+/Users/shrey/Desktop/Training_Prac/Top_Brains/ArithmeticExpressions/bin/Debug/net10.0/ArithmeticExpressions
+/Users/shrey/Desktop/Training_Prac/Top_Brains/ArithmeticExpressions/bin/Debug/net10.0/ArithmeticExpressions.deps.json
+/Users/shrey/Desktop/Training_Prac/Top_Brains/ArithmeticExpressions/bin/Debug/net10.0/ArithmeticExpressions.runtimeconfig.json
+/Users/shrey/Desktop/Training_Prac/Top_Brains/ArithmeticExpressions/bin/Debug/net10.0/ArithmeticExpressions.dll
+/Users/shrey/Desktop/Training_Prac/Top_Brains/ArithmeticExpressions/bin/Debug/net10.0/ArithmeticExpressions.pdb
+/Users/shrey/Desktop/Training_Prac/Top_Brains/ArithmeticExpressions/obj/Debug/net10.0/ArithmeticExpressions.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shrey/Desktop/Training_Prac/Top_Brains/ArithmeticExpressions/obj/Debug/net10.0/ArithmeticExpressions.AssemblyInfoInputs.cache
+/Users/shrey/Desktop/Training_Prac/Top_Brains/ArithmeticExpressions/obj/Debug/net10.0/ArithmeticExpressions.AssemblyInfo.cs
+/Users/shrey/Desktop/Training_Prac/Top_Brains/ArithmeticExpressions/obj/Debug/net10.0/ArithmeticExpressions.csproj.CoreCompileInputs.cache
+/Users/shrey/Desktop/Training_Prac/Top_Brains/ArithmeticExpressions/obj/Debug/net10.0/ArithmeticExpressions.sourcelink.json
+/Users/shrey/Desktop/Training_Prac/Top_Brains/ArithmeticExpressions/obj/Debug/net10.0/ArithmeticExpressions.dll
+/Users/shrey/Desktop/Training_Prac/Top_Brains/ArithmeticExpressions/obj/Debug/net10.0/refint/ArithmeticExpressions.dll
+/Users/shrey/Desktop/Training_Prac/Top_Brains/ArithmeticExpressions/obj/Debug/net10.0/ArithmeticExpressions.pdb
+/Users/shrey/Desktop/Training_Prac/Top_Brains/ArithmeticExpressions/obj/Debug/net10.0/ArithmeticExpressions.genruntimeconfig.cache
+/Users/shrey/Desktop/Training_Prac/Top_Brains/ArithmeticExpressions/obj/Debug/net10.0/ref/ArithmeticExpressions.dll

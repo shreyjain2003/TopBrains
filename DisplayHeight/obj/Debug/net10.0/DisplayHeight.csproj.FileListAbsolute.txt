@@ -1,0 +1,15 @@
+/Users/shrey/Desktop/Training_Prac/Top_Brains/DisplayHeight/bin/Debug/net10.0/DisplayHeight
+/Users/shrey/Desktop/Training_Prac/Top_Brains/DisplayHeight/bin/Debug/net10.0/DisplayHeight.deps.json
+/Users/shrey/Desktop/Training_Prac/Top_Brains/DisplayHeight/bin/Debug/net10.0/DisplayHeight.runtimeconfig.json
+/Users/shrey/Desktop/Training_Prac/Top_Brains/DisplayHeight/bin/Debug/net10.0/DisplayHeight.dll
+/Users/shrey/Desktop/Training_Prac/Top_Brains/DisplayHeight/bin/Debug/net10.0/DisplayHeight.pdb
+/Users/shrey/Desktop/Training_Prac/Top_Brains/DisplayHeight/obj/Debug/net10.0/DisplayHeight.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shrey/Desktop/Training_Prac/Top_Brains/DisplayHeight/obj/Debug/net10.0/DisplayHeight.AssemblyInfoInputs.cache
+/Users/shrey/Desktop/Training_Prac/Top_Brains/DisplayHeight/obj/Debug/net10.0/DisplayHeight.AssemblyInfo.cs
+/Users/shrey/Desktop/Training_Prac/Top_Brains/DisplayHeight/obj/Debug/net10.0/DisplayHeight.csproj.CoreCompileInputs.cache
+/Users/shrey/Desktop/Training_Prac/Top_Brains/DisplayHeight/obj/Debug/net10.0/DisplayHeight.sourcelink.json
+/Users/shrey/Desktop/Training_Prac/Top_Brains/DisplayHeight/obj/Debug/net10.0/DisplayHeight.dll
+/Users/shrey/Desktop/Training_Prac/Top_Brains/DisplayHeight/obj/Debug/net10.0/refint/DisplayHeight.dll
+/Users/shrey/Desktop/Training_Prac/Top_Brains/DisplayHeight/obj/Debug/net10.0/DisplayHeight.pdb
+/Users/shrey/Desktop/Training_Prac/Top_Brains/DisplayHeight/obj/Debug/net10.0/DisplayHeight.genruntimeconfig.cache
+/Users/shrey/Desktop/Training_Prac/Top_Brains/DisplayHeight/obj/Debug/net10.0/ref/DisplayHeight.dll
