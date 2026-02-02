@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/shrey/Desktop/Training_Prac/Top_Brains/Programming/Programming.csproj",
+      "projectUniqueName": "/Users/shrey/Projects/Training_Prac/Top_Brains/Programming/Programming.csproj",
       "projectName": "Programming",
-      "projectPath": "/Users/shrey/Desktop/Training_Prac/Top_Brains/Programming/Programming.csproj",
+      "projectPath": "/Users/shrey/Projects/Training_Prac/Top_Brains/Programming/Programming.csproj",
       "packagesPath": "/Users/shrey/.nuget/packages/",
-      "outputPath": "/Users/shrey/Desktop/Training_Prac/Top_Brains/Programming/obj/",
+      "outputPath": "/Users/shrey/Projects/Training_Prac/Top_Brains/Programming/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/shrey/.nuget/NuGet/NuGet.Config"
